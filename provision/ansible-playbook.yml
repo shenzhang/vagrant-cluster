@@ -4,4 +4,4 @@
     - common
     - java7
     - zookeeper
-    - kafka
+    - kafka/setup
